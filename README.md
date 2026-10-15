@@ -19,3 +19,4 @@ Multiplayer peer-to-peer (WebRTC via PeerJS): o host é o servidor da partida. T
 - Skins agora usam a arte pixel art original (rostos extraídos da imagem de referência).
 - **Bots (CPU):** botão "Jogar contra bots" no menu e opção de bots no lobby. Os bots completam a partida até o total escolhido (padrão: 50 jogadores), perseguem/fogem usando pathfinding e também empurram móveis.
 - Menu e lobby reorganizados (jogar contra bots, criar sala, entrar com código, loja, personagens, como jogar; copiar código; botão de sair na partida).
+- v7: personagens com corpo e braços ligados ao tronco; menu rolável em telas baixas.
