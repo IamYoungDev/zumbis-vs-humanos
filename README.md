@@ -12,6 +12,7 @@ Controles: WASD/setas, mouse ou Espaço para atirar, B para a loja.
 Multiplayer peer-to-peer (WebRTC via PeerJS): o host é o servidor da partida. Tudo roda em `index.html`.
 
 ## Novidades
-- Menu inspirado no Braaains.io, com **Loja** (moedas ganhas em partida) e **Personagens** (Bahia, Caio, Vini, Chiang, Marcelo, Felipe, Prado).
+- Menu inspirado no Braaains.io, com **Loja** (moedas ganhas em partida) e **Personagens** (Marcelo, Vini, JP Prado, Obata, Caio, Bahia, Rosin, Barcelos, F. Ori, Chiang) em pixel art.
 - Câmera sempre centralizada no personagem.
 - Correção do aviso falso de "host saiu" ao entrar com o código.
+- Subtítulo sobre cada jogador na partida: zumbis aparecem como "petista" e humanos como "patriota".
